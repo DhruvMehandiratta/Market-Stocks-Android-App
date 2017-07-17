@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Custom Stock ?" android:id="@+id/menu_custom_stock" />
+    <item android:title="refresh" android:id="@+id/menu_refresh" />
+</menu>

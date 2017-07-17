@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Home" android:id="@+id/navigation_home"></item>
+    <item android:id="@+id/navigation_settings" android:title="Settings"></item>
+    <item android:id="@+id/navigation_logout" android:title="Title"></item>
+</menu>
